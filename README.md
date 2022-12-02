@@ -23,4 +23,4 @@ Click on this link to open [Rotating Planets](https://cyberrie.github.io/rotatin
 
 # Resources
 
-This is the [link](https://www.youtube.com/watch?v=6M-rZIukXy0)to YouTube Channel course.
+This is the [link](https://www.youtube.com/watch?v=6M-rZIukXy0) to YouTube Channel course.
